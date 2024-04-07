@@ -1,0 +1,8 @@
+# Idea
+.idea
+.ipynb_checkpoints
+ParkinsonMouseTrail.iml
+
+# project based
+./src/main/.ipynb_checkpoints
+./src/main/processed
