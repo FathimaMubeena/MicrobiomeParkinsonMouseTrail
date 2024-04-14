@@ -5,7 +5,7 @@
 ## Steps to Run
 1. Create a Conda Environment - if it does not exist yet
 ```shell
-conda env create -n qiime2-dev --file qiime2-amplicon-macos-latest-conda.yml
+conda env create -name qiime2-dev --file qiime2-amplicon-macos-latest-conda.yml
 ```
 2. Activate Conda environment 
 ```shell
